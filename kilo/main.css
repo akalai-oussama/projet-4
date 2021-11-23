@@ -1,0 +1,66 @@
+.first{
+    border: 2px solid #EEEEEE;
+    box-sizing: border-box;
+    border-radius: 0px;
+    width: 200px;
+}
+.timg{
+    width: 190x;
+    height: 190px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.line{
+    width: 800px;
+    height: 2px;
+    background-color: black;
+}
+h1{
+    color: #315308;
+}
+.p1{
+    border: 3px solid black;
+    width: 88px;
+    height: 19px;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+h2{
+    font-size: 15px;
+    text-align: center;
+}
+.tennis{
+    text-align: center;
+}
+.row{
+    box-sizing: border-box;
+    display: flex;
+    flex:0 1 auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-right: 13rem;
+   margin-left: 13rem;
+}
+.seconde{
+        border: 2px solid #EEEEEE;
+        box-sizing: border-box;
+        border-radius: 0px;
+        width: 200px;
+}
+.h1new{
+    color: #CC5E1F;
+}
+.line2{
+    width: 800px;
+    height: 2px;
+    background-color: #CC5E1F;
+}
+.SUBMIT{
+    border: 2px solid orange;
+    margin-left: 270px;
+    margin-right: 270px;
+    width: 283px;
+    margin-top: 25px;
+    text-align: center;
+}
